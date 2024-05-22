@@ -1,6 +1,6 @@
 # 👐 为 users 集合启用验证
 
-在本练习中，您将探索 pre-written 的 `users` 集合的 JSON 验证模式，运行脚本将其应用于集合，并通过插入不符合模式的文档来测试模式验证。
+在本练习中，您将探索 pre-written 的 `users` 集合的 JSON 模型校验，运行脚本将其应用于集合，并通过插入不符合模型定义的文档来测试模型校验。
 
 ## 数据库用户权限
 
@@ -69,9 +69,9 @@ const resultUsers = await db.command({
     - 如果设置为 `error`，MongoDB 会拒绝任何违反验证标准的插入或更新。
     - 如果设置为 `warn`，操作会继续进行，但违规行为会记录在 MongoDB 日志中。
 
-## 将模式应用于 `users` 集合
+## 将模型应用于 `users` 集合
 
-您需要运行脚本将模式应用于 `users` 集合。
+您需要运行脚本将模型应用于 `users` 集合。
 
 1. 在您的 GitHub Codespace 中打开一个新的终端仿真器标签。
     1. 定位底部面板并点击 `TERMINAL` 标签。
