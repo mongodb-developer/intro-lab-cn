@@ -6,7 +6,7 @@
 // Name of the Github Repo, it's also the baseUrl
 const workshopName = 'intro-lab-cn';
 // Change this if hosting outside mongodb-developer
-const organizationName = "finishy1995";
+const organizationName = "mongodb-developer";
 
 // Main page config
 const title = "入门实验";
@@ -139,7 +139,7 @@ const config = {
       navbar: {
         title: `${title}`,
         logo: {
-          alt: "MongoDB 标志",
+          alt: "MongoDB Log",
           src: "/img/logo.svg",
           srcDark: "/img/logo-dark.svg",
           className: "navbar-logo",

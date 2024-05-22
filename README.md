@@ -1,10 +1,7 @@
-# Developer Days Intro Lab
+# 开发者日入门实验
 
-This is the Intro Lab used during Developer Days to set up a MongoDB Atlas Account and get some sample data in.
+这是在开发者日期间用于设置 MongoDB Atlas 账户并获取一些示例数据的入门实验。
 
-You can access the online version on the Intro Lab [here](https://mongodb-developer.github.io/intro-lab/)
+你可以在 [这里](https://mongodb-developer.github.io/intro-lab-cn/) 访问入门实验的在线版本。
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. We have a lab on how to use it available on https://mongodb-developer.github.io/docusaurus-workshop/.
-
-
-
+这个网站是使用 [Docusaurus 2](https://docusaurus.io/) 构建的，一种现代的静态网站生成器。我们有一个关于如何使用它的实验，详见 https://mongodb-developer.github.io/docusaurus-workshop/。
